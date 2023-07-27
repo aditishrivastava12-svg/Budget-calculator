@@ -1,0 +1,49 @@
+body{
+    font-family: cursive;
+    background-image: url("background");
+    background-size: cover;
+}
+.text-cent{
+    text-align: center;
+}
+.text-under{
+    text-decoration: underline;
+}
+.container{
+    width: 60%;
+    margin: 0 auto;
+    padding: 1%;
+  
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+.title{
+    background-color: rgb(233, 139, 154);
+    width: 60%;
+    margin: 0 auto;
+    padding: 1%;
+    color: white;
+ 
+}
+.info{
+    background-color:aliceblue;
+    width: 60%;
+    margin: 0 auto;
+    padding: 1%;
+   
+}
+.footer{
+    background-color: rgb(49, 48, 48);
+    width: 60%;
+    margin: 0 auto;
+    padding: 1%;
+   color: white;
+}
+.color{
+    color: rgb(233, 139, 154);
+}
+.bold{
+    font-weight: bold;
+}
